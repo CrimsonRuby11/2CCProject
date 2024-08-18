@@ -424,6 +424,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerSpeed: 5
   jumpSpeed: 10
+  plungeSpeed: 18
   playerAnimator: {fileID: 974968376}
   rb: {fileID: 974968374}
 --- !u!95 &974968376

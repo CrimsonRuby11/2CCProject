@@ -130,8 +130,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 638083a3f6644544e9cb9bacce2e2b12
       internalID: 474028747
+=======
+      spriteID: 7d90a5ffd0264144ebe804cf324572d5
+      internalID: -1493197965
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -157,8 +162,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: b42f23f89dab6cf40872b811873c5a44
       internalID: -816484610
+=======
+      spriteID: b9bd1682c45edc147a418972fbaa34e9
+      internalID: 735877935
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -184,8 +194,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 98df7a48209b5d94abc28d8b85c88ea1
       internalID: -1362061403
+=======
+      spriteID: fe27aebdb384ab04c846be1007f72d5c
+      internalID: -1457258284
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -211,8 +226,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: e63244a0e9fb6d5449647c787f09d92f
       internalID: -1843828165
+=======
+      spriteID: 45b7a9af7b716164cb8406415220df36
+      internalID: 1660922314
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -238,8 +258,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 15023461000732149a5b2f84bfb5624d
       internalID: 1751198827
+=======
+      spriteID: c7344cda4ece65847b543cdc3224f9d8
+      internalID: 274283920
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -265,8 +290,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: b7387c4941e5c684c829b611acc9312e
       internalID: -1904848371
+=======
+      spriteID: 9d1394ae7431bd547b159856ecf05af1
+      internalID: 119963591
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -292,8 +322,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 7b2c7c5be1de2bd418718425b78e2a52
       internalID: -1709523989
+=======
+      spriteID: 602d825b6f3029b4ba90861139d09b22
+      internalID: -1609981628
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -319,8 +354,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 696fb148ba1f50a4da406f7481122dfd
       internalID: 1083357172
+=======
+      spriteID: 03b68522d91806d46b7ce6f7df22c07a
+      internalID: -1930542258
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -346,8 +386,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: ca62ac1df0147aa4d824b5f6ab5971e8
       internalID: -1150806552
+=======
+      spriteID: a3d452d49b9715741b03e8b3ee4449fb
+      internalID: -1346751480
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -373,8 +418,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 88b34534edbd40343b91d1846a7e28a8
       internalID: -1606281329
+=======
+      spriteID: 9d021751ae3aced41aac9411d652129e
+      internalID: -1747780617
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -400,8 +450,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 5dbbd96fe577ab04b98d900df1d33071
       internalID: 394023655
+=======
+      spriteID: cfd765632106c0445a17ad919a5adb7c
+      internalID: 377567150
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -427,8 +482,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: c7af0bbe9726ece4b84a3000de1b2a6a
       internalID: -1139122273
+=======
+      spriteID: 3a0408145b0066847801629e60d9684d
+      internalID: -2035372433
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -454,8 +514,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 1a799175c5c431d468b52e30d84af8e4
       internalID: -1048859150
+=======
+      spriteID: 34317ef8f9977534fa5524cc0f4d8e60
+      internalID: 1131982651
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -481,8 +546,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 66dd6334530bd2e48b372905fd4d2d9e
       internalID: 1026727524
+=======
+      spriteID: faff8198b079d514a86a46f7c40f9ad2
+      internalID: -1448525674
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -508,8 +578,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: af439c8cfeaf61a4aad66502b6a80eb8
       internalID: -598590052
+=======
+      spriteID: 5f0a08ed24d2ef14bb9e2655ac5378fa
+      internalID: -257719306
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -535,8 +610,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 0810f2a6ae5d31346be206c56f42522f
       internalID: -121581518
+=======
+      spriteID: 1a67d7751caec654cbf44334a5a158a2
+      internalID: 1121572506
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -562,8 +642,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: fb9051cd963809e42818b84a7d415e77
       internalID: -909378553
+=======
+      spriteID: f8a7a5b96436aa845b20690feb57aad5
+      internalID: 1718048730
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -589,8 +674,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 9c38438421f9acc4593794850dc37828
       internalID: -850425274
+=======
+      spriteID: d175377e35665f742a1d9edd29ee1d93
+      internalID: -889913454
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -616,8 +706,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: c38b7d3a22348a7429e37e17cfcd64b5
       internalID: -1702972920
+=======
+      spriteID: 18453f375a4fe204880317ab8b78831a
+      internalID: -231326792
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -643,8 +738,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: f8e6c219327bf994cad7eb67db3403bb
       internalID: 1265206753
+=======
+      spriteID: a7c0af129c7e8fc44bcab0af3963e777
+      internalID: 543818780
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -670,8 +770,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 48219009c7d671c48b51454c3edef4ce
       internalID: 48722611
+=======
+      spriteID: 41218bd1e634ba4499c30afbf8fd71d6
+      internalID: -1993553744
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -697,8 +802,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: af80878e13585ab4b9f27164ec70332d
       internalID: -1649074622
+=======
+      spriteID: da9c008f480ab1b4cb08024d465c33ea
+      internalID: -2146148171
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -724,8 +834,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 95e433e15550d344fbdce93ff058b495
       internalID: -1016579476
+=======
+      spriteID: 568a726a7eed8084f8043bbbd126e689
+      internalID: -1576360560
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -751,8 +866,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 6f3840d87ec2025469ea011dc4a11204
       internalID: -1536811909
+=======
+      spriteID: 78f71778faffaba4b9fe3c9dcf3d9e83
+      internalID: -146310513
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -778,8 +898,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: f8e22b0fa23c3064089de4e277d26ebc
       internalID: -1846106330
+=======
+      spriteID: 67b48777f8b42bd4d9cd2606778bb86d
+      internalID: -851892905
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -805,8 +930,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: c8489cecd99e9c54bb716cb1a88383a4
       internalID: -1756376652
+=======
+      spriteID: 468f11ea4313ccc45a0aa5dd2c0ecb67
+      internalID: 76256771
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -832,8 +962,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: d049094f4551172488602290968d3708
       internalID: -1497161228
+=======
+      spriteID: e3542a6f7aad15e44bd3a99d1ba9b583
+      internalID: 128666196
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -859,8 +994,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 24a26040967fb9e49b83188b98854e2d
       internalID: 880961375
+=======
+      spriteID: 8b0c7995ad585504a9cb6d3462ff31a5
+      internalID: 1908975142
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -886,8 +1026,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: a9d86c3b0527c46468c959a94c8be4f5
       internalID: -1063611992
+=======
+      spriteID: 9639a32cf503f2147a3b8e2cf3cb16cb
+      internalID: 1351732190
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -913,8 +1058,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 51782d11d92ab804793b004bfeca15ee
       internalID: 15092192
+=======
+      spriteID: 7ce4b5fdd474bb847bdfccd4d497ae5f
+      internalID: 1080348312
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -940,8 +1090,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: ecd08fe613998694190809ed041fc689
       internalID: 665449538
+=======
+      spriteID: 55d7ac658f01f2341af4c8225a75685a
+      internalID: 1662108417
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -967,8 +1122,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: aac4ea02877573b478873d23baa7f288
       internalID: 946202554
+=======
+      spriteID: 3b15746feaee7544d823dae0d54e8f03
+      internalID: 572899733
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -994,8 +1154,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 8017938d180d85c48adb1256431ac1af
       internalID: 345071213
+=======
+      spriteID: 2a46bfce29c06164ca03a2a4ba523860
+      internalID: -1670925441
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1021,8 +1186,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 090403bf05b540b4495305fee5b251d0
       internalID: -797992486
+=======
+      spriteID: 3026452e3c7d8424fa75e7e80e171e81
+      internalID: -1120621281
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1048,8 +1218,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: cc55b21ad6a78104e957cd9de6379dc7
       internalID: -1260645399
+=======
+      spriteID: dec6002cf6d87294ebea536e5f4dce34
+      internalID: -576393179
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1075,8 +1250,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 8c7ae0df42cd1bd4eb5dbc1e739b2d5a
       internalID: 1207473037
+=======
+      spriteID: 9e8ef443f20567540872c3f48396d5cc
+      internalID: 901469234
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1102,8 +1282,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 30ffc5af90bbf3544bb6ad6dbb695f81
       internalID: -234674367
+=======
+      spriteID: 5c7f0bdb0c2d29542a625d46d71e5b35
+      internalID: 1845541214
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1129,8 +1314,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: d89f2587cd2dc2d4a8889531ab9d490c
       internalID: -326706555
+=======
+      spriteID: eac50a77da8f96b41afe6534f2094ed5
+      internalID: 739824297
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1156,8 +1346,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 68614d5ae16d2dc429104d04f006b4de
       internalID: -1096375531
+=======
+      spriteID: 552877654d4cf6c4ea4585c447ef662f
+      internalID: 365386327
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1183,8 +1378,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: fd3f87ca942b7a84eb50b0604fbe3566
       internalID: 2052635528
+=======
+      spriteID: 33a263c53b746e1408180dd54619dcd7
+      internalID: -170299232
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1210,8 +1410,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 2d7ef6cb1cd9056438e34e11a4159ab4
       internalID: -750873034
+=======
+      spriteID: 75f27aed172bbaf4dae5b65cdae5861c
+      internalID: -430201506
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1237,8 +1442,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: c8d65e520d2dcc741818c4462c9e238a
       internalID: 648738427
+=======
+      spriteID: f742d77125f56e84686d97a979a47977
+      internalID: 1616696888
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1264,8 +1474,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 3d8de9eaaa96a4e4797c4316042aec67
       internalID: -248074922
+=======
+      spriteID: e645d134856a48140b21bef233ccad4b
+      internalID: -801118147
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1291,8 +1506,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 5d62015fa5273904cb620d08cba119f5
       internalID: -278979541
+=======
+      spriteID: c49b78bf081451740b64cb11adc15ded
+      internalID: -1976908106
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1318,8 +1538,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 134f04b62a2f2df45b6c182dd12d934c
       internalID: -1725156173
+=======
+      spriteID: ca4764e039cd4b34e954fee08435e0a5
+      internalID: -1246707823
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1345,8 +1570,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: f8cc9fa29fba2064786e76af3ea78993
       internalID: 394488978
+=======
+      spriteID: 4c43cc5d8d0914d4ca69b1b3148790fa
+      internalID: -133070831
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1372,8 +1602,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 40e43c3a49dd45947bd17507aec8a06d
       internalID: -1965994303
+=======
+      spriteID: 8155e471a9631a34fbe6332714be3f25
+      internalID: -1839467520
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1399,8 +1634,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: a36d42ff322d6e44b8334e5fbe787011
       internalID: -819740299
+=======
+      spriteID: 1c1e0d31ba7b07a41b111b553a8c0207
+      internalID: 728221360
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1426,8 +1666,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: e167fd2ed3d91414692c0331f1156050
       internalID: -1673584694
+=======
+      spriteID: 00cfaaf85a618a34baefdc0bda8f1ac9
+      internalID: -1118245521
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1453,8 +1698,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 9e28083ea4e3f8c4aa01b103b23cba2d
       internalID: -164798258
+=======
+      spriteID: a130be635d61a01488e3c47a6f8bc56f
+      internalID: 1263024065
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1480,8 +1730,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 74bf6e3e831f13a4088b3a75d8204c32
       internalID: -2057321450
+=======
+      spriteID: 48fc3bb946d9cc447b5b05351c5e840f
+      internalID: 1029448890
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1507,8 +1762,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: a4228504d649b64409236e1934bf6340
       internalID: -2098089324
+=======
+      spriteID: 9d7c7dffaa0e7a94f86943d425747f6c
+      internalID: 1171567406
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1534,8 +1794,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: e43a8a0cc3a9dd342a6c181cf17cd279
       internalID: -2000469889
+=======
+      spriteID: 509c1516574df304aae7b8f05162ab07
+      internalID: -1766052061
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1561,8 +1826,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: c63f2a9f4184ab44bb38ca6a241352ea
       internalID: -145582699
+=======
+      spriteID: 7e20346b2fe387443a0db9bdc9983089
+      internalID: 1532412546
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1588,8 +1858,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 95e4cd56f997fd945ad994ba113db227
       internalID: 1803763098
+=======
+      spriteID: 447daef6039e82b49b3a1fb1e63736d5
+      internalID: -1834313337
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1615,8 +1890,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: ca985ea2dbecbef42b23197c49829229
       internalID: 677451047
+=======
+      spriteID: e9ee692b39dffe04d8612724dfe2eae3
+      internalID: 729048593
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1642,8 +1922,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: fe144b3ba1ebe4e4b97764562db3fa58
       internalID: -211725132
+=======
+      spriteID: e135df3febaea2d49a5613b12683b02f
+      internalID: -229555361
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1669,8 +1954,13 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 848a4b85df6c72a4e87e99416ff34628
       internalID: 970617253
+=======
+      spriteID: aaada0519be276846ad39ecd2fd0673b
+      internalID: 2027552087
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -1686,6 +1976,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+<<<<<<< Updated upstream
       AutotileSoil_0: 474028747
       AutotileSoil_1: -816484610
       AutotileSoil_10: 394023655
@@ -1744,6 +2035,66 @@ TextureImporter:
       AutotileSoil_7: 1083357172
       AutotileSoil_8: -1150806552
       AutotileSoil_9: -1606281329
+=======
+      AutotileSoil_0: -1493197965
+      AutotileSoil_1: 735877935
+      AutotileSoil_10: 377567150
+      AutotileSoil_11: -2035372433
+      AutotileSoil_12: 1131982651
+      AutotileSoil_13: -1448525674
+      AutotileSoil_14: -257719306
+      AutotileSoil_15: 1121572506
+      AutotileSoil_16: 1718048730
+      AutotileSoil_17: -889913454
+      AutotileSoil_18: -231326792
+      AutotileSoil_19: 543818780
+      AutotileSoil_2: -1457258284
+      AutotileSoil_20: -1993553744
+      AutotileSoil_21: -2146148171
+      AutotileSoil_22: -1576360560
+      AutotileSoil_23: -146310513
+      AutotileSoil_24: -851892905
+      AutotileSoil_25: 76256771
+      AutotileSoil_26: 128666196
+      AutotileSoil_27: 1908975142
+      AutotileSoil_28: 1351732190
+      AutotileSoil_29: 1080348312
+      AutotileSoil_3: 1660922314
+      AutotileSoil_30: 1662108417
+      AutotileSoil_31: 572899733
+      AutotileSoil_32: -1670925441
+      AutotileSoil_33: -1120621281
+      AutotileSoil_34: -576393179
+      AutotileSoil_35: 901469234
+      AutotileSoil_36: 1845541214
+      AutotileSoil_37: 739824297
+      AutotileSoil_38: 365386327
+      AutotileSoil_39: -170299232
+      AutotileSoil_4: 274283920
+      AutotileSoil_40: -430201506
+      AutotileSoil_41: 1616696888
+      AutotileSoil_42: -801118147
+      AutotileSoil_43: -1976908106
+      AutotileSoil_44: -1246707823
+      AutotileSoil_45: -133070831
+      AutotileSoil_46: -1839467520
+      AutotileSoil_47: 728221360
+      AutotileSoil_48: -1118245521
+      AutotileSoil_49: 1263024065
+      AutotileSoil_5: 119963591
+      AutotileSoil_50: 1029448890
+      AutotileSoil_51: 1171567406
+      AutotileSoil_52: -1766052061
+      AutotileSoil_53: 1532412546
+      AutotileSoil_54: -1834313337
+      AutotileSoil_55: 729048593
+      AutotileSoil_56: -229555361
+      AutotileSoil_57: 2027552087
+      AutotileSoil_6: -1609981628
+      AutotileSoil_7: -1930542258
+      AutotileSoil_8: -1346751480
+      AutotileSoil_9: -1747780617
+>>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -3,12 +3,20 @@
     "maps": [
         {
             "name": "Player",
+<<<<<<< Updated upstream
             "id": "e7b592df-4728-4d03-94d1-327d04eb6f15",
+=======
+            "id": "7de0947d-c5fc-413b-9ce8-ffa1070bfa0f",
+>>>>>>> Stashed changes
             "actions": [
                 {
                     "name": "Move",
                     "type": "Value",
+<<<<<<< Updated upstream
                     "id": "52885730-1459-465c-8451-de3b7bb5b26c",
+=======
+                    "id": "5a3e67a3-e83e-45b5-9242-f04b0e8177e1",
+>>>>>>> Stashed changes
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -17,6 +25,7 @@
                 {
                     "name": "Jump",
                     "type": "Button",
+<<<<<<< Updated upstream
                     "id": "7885d838-455f-4f7d-8beb-0d728876c2a1",
                     "expectedControlType": "Button",
                     "processors": "",
@@ -27,6 +36,9 @@
                     "name": "Plunge",
                     "type": "Button",
                     "id": "3e0a510b-6a8d-484c-8721-1d6840767105",
+=======
+                    "id": "2f34dca9-504f-454c-86f9-cbac92ae032a",
+>>>>>>> Stashed changes
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -35,6 +47,7 @@
             ],
             "bindings": [
                 {
+<<<<<<< Updated upstream
                     "name": "ArrowKeys",
                     "id": "e4e31615-f928-4154-a37e-ccae275a6bce",
                     "path": "2DVector",
@@ -70,6 +83,10 @@
                 {
                     "name": "WASD",
                     "id": "44e785a9-fa26-4131-8a2f-8bb0cf61d522",
+=======
+                    "name": "WASD",
+                    "id": "825a665f-e6f2-4bf9-970b-6ced91d2f782",
+>>>>>>> Stashed changes
                     "path": "2DVector",
                     "interactions": "",
                     "processors": "",
@@ -80,28 +97,45 @@
                 },
                 {
                     "name": "left",
+<<<<<<< Updated upstream
                     "id": "bf3e4b56-bc2d-4268-9818-5f8374ef316e",
                     "path": "<Keyboard>/a",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
+=======
+                    "id": "c60e4991-9bf2-4851-81b8-0f048e0f5870",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+>>>>>>> Stashed changes
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
                 {
                     "name": "right",
+<<<<<<< Updated upstream
                     "id": "88c475e6-075f-450c-b052-4015e55c37bc",
                     "path": "<Keyboard>/d",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
+=======
+                    "id": "ab8aab69-29da-4253-833c-0db1dd202e75",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+>>>>>>> Stashed changes
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
                 {
                     "name": "",
+<<<<<<< Updated upstream
                     "id": "e834c0f3-4681-49a4-86f1-c0432f82702f",
                     "path": "<Keyboard>/space",
                     "interactions": "",
@@ -121,9 +155,29 @@
                     "action": "Plunge",
                     "isComposite": false,
                     "isPartOfComposite": false
+=======
+                    "id": "17a7db50-8a32-4f36-af43-48b60d5e4c02",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+>>>>>>> Stashed changes
                 }
             ]
         }
     ],
+<<<<<<< Updated upstream
     "controlSchemes": []
+=======
+    "controlSchemes": [
+        {
+            "name": "Keyboard",
+            "bindingGroup": "Keyboard",
+            "devices": []
+        }
+    ]
+>>>>>>> Stashed changes
 }

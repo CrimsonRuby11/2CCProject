@@ -25,12 +25,20 @@ public partial class @InputManager: IInputActionCollection2, IDisposable
     ""maps"": [
         {
             ""name"": ""Player"",
+<<<<<<< Updated upstream
             ""id"": ""e7b592df-4728-4d03-94d1-327d04eb6f15"",
+=======
+            ""id"": ""7de0947d-c5fc-413b-9ce8-ffa1070bfa0f"",
+>>>>>>> Stashed changes
             ""actions"": [
                 {
                     ""name"": ""Move"",
                     ""type"": ""Value"",
+<<<<<<< Updated upstream
                     ""id"": ""52885730-1459-465c-8451-de3b7bb5b26c"",
+=======
+                    ""id"": ""5a3e67a3-e83e-45b5-9242-f04b0e8177e1"",
+>>>>>>> Stashed changes
                     ""expectedControlType"": ""Vector2"",
                     ""processors"": """",
                     ""interactions"": """",
@@ -39,6 +47,7 @@ public partial class @InputManager: IInputActionCollection2, IDisposable
                 {
                     ""name"": ""Jump"",
                     ""type"": ""Button"",
+<<<<<<< Updated upstream
                     ""id"": ""7885d838-455f-4f7d-8beb-0d728876c2a1"",
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
@@ -49,6 +58,9 @@ public partial class @InputManager: IInputActionCollection2, IDisposable
                     ""name"": ""Plunge"",
                     ""type"": ""Button"",
                     ""id"": ""3e0a510b-6a8d-484c-8721-1d6840767105"",
+=======
+                    ""id"": ""2f34dca9-504f-454c-86f9-cbac92ae032a"",
+>>>>>>> Stashed changes
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": """",
@@ -57,6 +69,7 @@ public partial class @InputManager: IInputActionCollection2, IDisposable
             ],
             ""bindings"": [
                 {
+<<<<<<< Updated upstream
                     ""name"": ""ArrowKeys"",
                     ""id"": ""e4e31615-f928-4154-a37e-ccae275a6bce"",
                     ""path"": ""2DVector"",
@@ -92,6 +105,10 @@ public partial class @InputManager: IInputActionCollection2, IDisposable
                 {
                     ""name"": ""WASD"",
                     ""id"": ""44e785a9-fa26-4131-8a2f-8bb0cf61d522"",
+=======
+                    ""name"": ""WASD"",
+                    ""id"": ""825a665f-e6f2-4bf9-970b-6ced91d2f782"",
+>>>>>>> Stashed changes
                     ""path"": ""2DVector"",
                     ""interactions"": """",
                     ""processors"": """",
@@ -102,28 +119,45 @@ public partial class @InputManager: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": ""left"",
+<<<<<<< Updated upstream
                     ""id"": ""bf3e4b56-bc2d-4268-9818-5f8374ef316e"",
                     ""path"": ""<Keyboard>/a"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
+=======
+                    ""id"": ""c60e4991-9bf2-4851-81b8-0f048e0f5870"",
+                    ""path"": ""<Keyboard>/a"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard"",
+>>>>>>> Stashed changes
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
                 {
                     ""name"": ""right"",
+<<<<<<< Updated upstream
                     ""id"": ""88c475e6-075f-450c-b052-4015e55c37bc"",
                     ""path"": ""<Keyboard>/d"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
+=======
+                    ""id"": ""ab8aab69-29da-4253-833c-0db1dd202e75"",
+                    ""path"": ""<Keyboard>/d"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard"",
+>>>>>>> Stashed changes
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
                 {
                     ""name"": """",
+<<<<<<< Updated upstream
                     ""id"": ""e834c0f3-4681-49a4-86f1-c0432f82702f"",
                     ""path"": ""<Keyboard>/space"",
                     ""interactions"": """",
@@ -143,17 +177,40 @@ public partial class @InputManager: IInputActionCollection2, IDisposable
                     ""action"": ""Plunge"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+=======
+                    ""id"": ""17a7db50-8a32-4f36-af43-48b60d5e4c02"",
+                    ""path"": ""<Keyboard>/space"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard"",
+                    ""action"": ""Jump"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+>>>>>>> Stashed changes
                 }
             ]
         }
     ],
+<<<<<<< Updated upstream
     ""controlSchemes"": []
+=======
+    ""controlSchemes"": [
+        {
+            ""name"": ""Keyboard"",
+            ""bindingGroup"": ""Keyboard"",
+            ""devices"": []
+        }
+    ]
+>>>>>>> Stashed changes
 }");
         // Player
         m_Player = asset.FindActionMap("Player", throwIfNotFound: true);
         m_Player_Move = m_Player.FindAction("Move", throwIfNotFound: true);
         m_Player_Jump = m_Player.FindAction("Jump", throwIfNotFound: true);
+<<<<<<< Updated upstream
         m_Player_Plunge = m_Player.FindAction("Plunge", throwIfNotFound: true);
+=======
+>>>>>>> Stashed changes
     }
 
     public void Dispose()
@@ -217,14 +274,20 @@ public partial class @InputManager: IInputActionCollection2, IDisposable
     private List<IPlayerActions> m_PlayerActionsCallbackInterfaces = new List<IPlayerActions>();
     private readonly InputAction m_Player_Move;
     private readonly InputAction m_Player_Jump;
+<<<<<<< Updated upstream
     private readonly InputAction m_Player_Plunge;
+=======
+>>>>>>> Stashed changes
     public struct PlayerActions
     {
         private @InputManager m_Wrapper;
         public PlayerActions(@InputManager wrapper) { m_Wrapper = wrapper; }
         public InputAction @Move => m_Wrapper.m_Player_Move;
         public InputAction @Jump => m_Wrapper.m_Player_Jump;
+<<<<<<< Updated upstream
         public InputAction @Plunge => m_Wrapper.m_Player_Plunge;
+=======
+>>>>>>> Stashed changes
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -240,9 +303,12 @@ public partial class @InputManager: IInputActionCollection2, IDisposable
             @Jump.started += instance.OnJump;
             @Jump.performed += instance.OnJump;
             @Jump.canceled += instance.OnJump;
+<<<<<<< Updated upstream
             @Plunge.started += instance.OnPlunge;
             @Plunge.performed += instance.OnPlunge;
             @Plunge.canceled += instance.OnPlunge;
+=======
+>>>>>>> Stashed changes
         }
 
         private void UnregisterCallbacks(IPlayerActions instance)
@@ -253,9 +319,12 @@ public partial class @InputManager: IInputActionCollection2, IDisposable
             @Jump.started -= instance.OnJump;
             @Jump.performed -= instance.OnJump;
             @Jump.canceled -= instance.OnJump;
+<<<<<<< Updated upstream
             @Plunge.started -= instance.OnPlunge;
             @Plunge.performed -= instance.OnPlunge;
             @Plunge.canceled -= instance.OnPlunge;
+=======
+>>>>>>> Stashed changes
         }
 
         public void RemoveCallbacks(IPlayerActions instance)
@@ -273,10 +342,25 @@ public partial class @InputManager: IInputActionCollection2, IDisposable
         }
     }
     public PlayerActions @Player => new PlayerActions(this);
+<<<<<<< Updated upstream
+=======
+    private int m_KeyboardSchemeIndex = -1;
+    public InputControlScheme KeyboardScheme
+    {
+        get
+        {
+            if (m_KeyboardSchemeIndex == -1) m_KeyboardSchemeIndex = asset.FindControlSchemeIndex("Keyboard");
+            return asset.controlSchemes[m_KeyboardSchemeIndex];
+        }
+    }
+>>>>>>> Stashed changes
     public interface IPlayerActions
     {
         void OnMove(InputAction.CallbackContext context);
         void OnJump(InputAction.CallbackContext context);
+<<<<<<< Updated upstream
         void OnPlunge(InputAction.CallbackContext context);
+=======
+>>>>>>> Stashed changes
     }
 }
